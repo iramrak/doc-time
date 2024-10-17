@@ -1,9 +1,9 @@
 export const slides = [
     {
         id: 1,
-        text: 'Успейте записаться до 12.12',
+        image: require('../assets/images/slide1.png'),
     },{
         id: 2,
-        text: 'Каспи рэд до 12.12 сигма',
+        image: require('../assets/images/slide2.png'),
     }
 ]
